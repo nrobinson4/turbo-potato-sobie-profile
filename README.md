@@ -3,7 +3,9 @@ CIS 486 Spring 2025 The Sobie Dev Co. Profile
 
 Forked from the class repo
 
-1/
+1 (as an outsider)/
+https://github.com/barrycumbie/turbo-potato-sobie-profile/pull/50
+super duper defining proof: https://github.com/barrycumbie/turbo-potato-sobie-profile/blob/main/docs/nolen.html
 
 2 (repo collaborator)/ 
 PR 79 = https://github.com/barrycumbie/turbo-potato-sobie-profile/pull/79
