@@ -8,11 +8,11 @@ Forked from the class repo
 [https://github.com/barrycumbie/turbo-potato-sobie-profile/pull/50](https://github.com/barrycumbie/turbo-potato-sobie-profile/pull/50)
 
 super duper defining proof: 
-[https://github.com/barrycumbie/turbo-potato-sobie-profile/blob/main/docs/nolen.html](https://github.com/barrycumbie/turbo-potato-sobie-profile/blob/main/docs/nolen.html)
+[nolen.html](https://github.com/barrycumbie/turbo-potato-sobie-profile/blob/main/docs/nolen.html)
 
 2 (repo collaborator)/
 
-PR 79 = https://github.com/barrycumbie/turbo-potato-sobie-profile/pull/79
+PR 79 = [https://github.com/barrycumbie/turbo-potato-sobie-profile/pull/79](https://github.com/barrycumbie/turbo-potato-sobie-profile/pull/79)
 ![image](https://github.com/user-attachments/assets/556007ee-2807-46cc-b86c-0fd410d6c0b9)
 
 
