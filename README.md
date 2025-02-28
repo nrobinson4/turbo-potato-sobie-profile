@@ -7,8 +7,8 @@ Forked from the class repo
 
 [https://github.com/barrycumbie/turbo-potato-sobie-profile/pull/50](https://github.com/barrycumbie/turbo-potato-sobie-profile/pull/50)
 
-super duper defining proof: https://github.com/barrycumbie/turbo-potato-sobie-profile/blob/main/docs/nolen.html
-
+super duper defining proof: 
+[https://github.com/barrycumbie/turbo-potato-sobie-profile/blob/main/docs/nolen.html](https://github.com/barrycumbie/turbo-potato-sobie-profile/blob/main/docs/nolen.html)
 
 2 (repo collaborator)/
 
